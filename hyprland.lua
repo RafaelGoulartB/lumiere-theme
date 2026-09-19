@@ -9,6 +9,11 @@ hl.config({
     },
   },
 
+  decoration = {
+    rounding = 6,
+    rounding_power = 3,
+  },
+
   group = {
     col = {
       border_active = active_border_color,
