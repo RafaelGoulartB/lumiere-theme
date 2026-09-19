@@ -2,14 +2,14 @@ mode = "dark"
 
 # Gold leaf from the painted number, gommage petals, and baroque frames
 accent = "#d4a84b"
-selection = "#3a3048"
-muted = "#6b5d6e"
+selection = "#463c56"
+muted = "#7a6c7c"
 
-# Deep painted night — indigo-black canvas
-background = "#14111a"
-dark_background = "#0e0b12"
-darker_background = "#08060b"
-lighter_background = "#221c2a"
+# Softened painted night — still indigo, less void-black
+background = "#1f1b28"
+dark_background = "#17141f"
+darker_background = "#121018"
+lighter_background = "#2c2736"
 
 # Parchment / cream journal ink
 foreground = "#e8dcc8"
@@ -22,20 +22,19 @@ hyprland_inactive_border = "rgba(3a304899)"
 active_border_color = "#d4a84b"
 active_tab_background = "#d4a84b"
 
-# Gommage wine, gold leaf, amber lamplight, spring meadows,
-# flying waters, twilight Lumière, rose petals, oil-paint umber
-red = "#c45c5c"
-yellow = "#e4c36a"
-orange = "#d4894a"
-green = "#7d9a6e"
-cyan = "#6eb8b0"
+# Dusty wine / moss / antique gold — readable as text, not blown as diff bg
+red = "#a86b6b"
+yellow = "#c4ae6e"
+orange = "#c4845a"
+green = "#6b8a6c"
+cyan = "#6ea8a2"
 blue = "#5a7aa8"
-magenta = "#c47a9a"
+magenta = "#b87a94"
 brown = "#7a5344"
 
-bright_red = "#e07a7a"
-bright_yellow = "#f0dc8c"
-bright_green = "#9bb88a"
-bright_cyan = "#8fd4cc"
+bright_red = "#c48989"
+bright_yellow = "#dcc88a"
+bright_green = "#8aa68a"
+bright_cyan = "#8fc4bc"
 bright_blue = "#7a98c4"
-bright_magenta = "#e09ab4"
+bright_magenta = "#d09aaa"
