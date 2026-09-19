@@ -16,3 +16,6 @@ hl.config({
     },
   },
 })
+
+-- Hide borders only when the workspace has a single tiled window.
+o.window({ float = false, workspace = "w[t1]s[false]" }, { border_size = 0 })
