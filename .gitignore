@@ -1,7 +1,3 @@
-# Local backgrounds are kept outside version control.
-backgrounds/
-background/
-
 # OS metadata
 .DS_Store
 Thumbs.db
